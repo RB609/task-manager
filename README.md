@@ -9,3 +9,9 @@ REST API for a simple task manager app <br>
     pagination: {{url}}/?limit=int&skip=int   limits no. of items to 'int' per page (can be used with bootstrap UIs at front end)<br>
     Filtering: {{url}}/?key=value<br>
 
+| Key                 | Value                              |
+| ------------------- | ---------------------------------- |
+| Document Type       | $DOC_TYPE                          |
+| Document Authorizer | $COMMITTER_NAME ($COMMITTER_EMAIL) |
+| Publication Date    | $GEN_DATE                          |
+| Version Number      | $VERSION_NUM ($GIT_SHA)            |
