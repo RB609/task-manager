@@ -14,5 +14,6 @@ REST API for a simple task manager app <br>
 | Document Type       | $DOC_TYPE                          |
 | Document Authorizer | $COMMITTER_NAME ($COMMITTER_EMAIL) |
 | Publication Date    | $GEN_DATE                          |
-| Version Number      | $VERSION_NUM ($GIT_SHA)            ||
+| Version Number      | $VERSION_NUM ($GIT_SHA)            |
+
 [Table caption, works as a reference][section-mmd-tables-table1]
